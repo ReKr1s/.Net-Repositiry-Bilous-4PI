@@ -1,0 +1,11 @@
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Models\bin\Debug\net8.0\Bilous.TaskPlanner.Domain.Models.deps.json
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Models\bin\Debug\net8.0\Bilous.TaskPlanner.Domain.Models.dll
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Models\bin\Debug\net8.0\Bilous.TaskPlanner.Domain.Models.pdb
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Models\obj\Debug\net8.0\Bilous.TaskPlanner.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Models\obj\Debug\net8.0\Bilous.TaskPlanner.Domain.Models.AssemblyInfoInputs.cache
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Models\obj\Debug\net8.0\Bilous.TaskPlanner.Domain.Models.AssemblyInfo.cs
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Models\obj\Debug\net8.0\Bilous.TaskPlanner.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Models\obj\Debug\net8.0\Bilous.TaskPlanner.Domain.Models.dll
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Models\obj\Debug\net8.0\refint\Bilous.TaskPlanner.Domain.Models.dll
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Models\obj\Debug\net8.0\Bilous.TaskPlanner.Domain.Models.pdb
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Models\obj\Debug\net8.0\ref\Bilous.TaskPlanner.Domain.Models.dll

@@ -1,0 +1,15 @@
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Bilous.TaskPlanner.Domain.Logic.deps.json
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Bilous.TaskPlanner.Domain.Logic.dll
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Bilous.TaskPlanner.Domain.Logic.pdb
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Bilous.TaskPlanner.Domain.Models.dll
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Bilous.TaskPlanner.Domain.Models.pdb
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Bilous.TaskPlanner.Domain.Logic.csproj.AssemblyReference.cache
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Bilous.TaskPlanner.Domain.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Bilous.TaskPlanner.Domain.Logic.AssemblyInfoInputs.cache
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Bilous.TaskPlanner.Domain.Logic.AssemblyInfo.cs
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Bilous.TaskPlanner.Domain.Logic.csproj.CoreCompileInputs.cache
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Bilous.T.BBF7BBD8.Up2Date
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Bilous.TaskPlanner.Domain.Logic.dll
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Logic\obj\Debug\net8.0\refint\Bilous.TaskPlanner.Domain.Logic.dll
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Bilous.TaskPlanner.Domain.Logic.pdb
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Logic\obj\Debug\net8.0\ref\Bilous.TaskPlanner.Domain.Logic.dll

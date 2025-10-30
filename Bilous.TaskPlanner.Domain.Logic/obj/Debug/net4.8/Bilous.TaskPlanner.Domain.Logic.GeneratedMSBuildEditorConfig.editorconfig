@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Bilous.TaskPlanner.Domain.Logic
+build_property.ProjectDir = C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Logic\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

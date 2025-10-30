@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bilous.TaskPlanner.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Bilous.TaskPlanner.Domain.Logic": "1.0.0",
+          "Bilous.TaskPlanner.Domain.Models": "1.0.0"
+        },
+        "runtime": {
+          "Bilous.TaskPlanner.ConsoleApp.dll": {}
+        }
+      },
+      "Bilous.TaskPlanner.Domain.Logic/1.0.0": {
+        "dependencies": {
+          "Bilous.TaskPlanner.Domain.Models": "1.0.0"
+        },
+        "runtime": {
+          "Bilous.TaskPlanner.Domain.Logic.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Bilous.TaskPlanner.Domain.Models/1.0.0": {
+        "runtime": {
+          "Bilous.TaskPlanner.Domain.Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bilous.TaskPlanner.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bilous.TaskPlanner.Domain.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bilous.TaskPlanner.Domain.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

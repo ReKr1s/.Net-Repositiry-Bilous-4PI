@@ -1,0 +1,5 @@
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Models\obj\Debug\net4.8\Bilous.TaskPlanner.Domain.Models.csproj.AssemblyReference.cache
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Models\obj\Debug\net4.8\Bilous.TaskPlanner.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Models\obj\Debug\net4.8\Bilous.TaskPlanner.Domain.Models.AssemblyInfoInputs.cache
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Models\obj\Debug\net4.8\Bilous.TaskPlanner.Domain.Models.AssemblyInfo.cs
+C:\Users\ReKris\Desktop\dotnet2\Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Models\obj\Debug\net4.8\Bilous.TaskPlanner.Domain.Models.csproj.CoreCompileInputs.cache
