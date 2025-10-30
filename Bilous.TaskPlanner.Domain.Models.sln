@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bilous.TaskPlanner.Domain.Models", "Bilous.TaskPlanner.Domain.Models\Bilous.TaskPlanner.Domain.Models.csproj", "{D2BD9DA3-783E-4EDC-86A4-3B8230D08DB8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bilous.TaskPlanner.Domain.Logic", "Bilous.TaskPlanner.Domain.Logic\Bilous.TaskPlanner.Domain.Logic.csproj", "{F71238EE-3AB5-4243-AA9B-E4C6795B5E38}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D2BD9DA3-783E-4EDC-86A4-3B8230D08DB8} = {D2BD9DA3-783E-4EDC-86A4-3B8230D08DB8}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bilous.TaskPlanner.ConsoleApp", "Bilous.TaskPlanner.ConsoleApp\Bilous.TaskPlanner.ConsoleApp.csproj", "{48F9261D-9EF5-4919-B02A-AFF0F814EF55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2BD9DA3-783E-4EDC-86A4-3B8230D08DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2BD9DA3-783E-4EDC-86A4-3B8230D08DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2BD9DA3-783E-4EDC-86A4-3B8230D08DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2BD9DA3-783E-4EDC-86A4-3B8230D08DB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F71238EE-3AB5-4243-AA9B-E4C6795B5E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F71238EE-3AB5-4243-AA9B-E4C6795B5E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F71238EE-3AB5-4243-AA9B-E4C6795B5E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F71238EE-3AB5-4243-AA9B-E4C6795B5E38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48F9261D-9EF5-4919-B02A-AFF0F814EF55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F9261D-9EF5-4919-B02A-AFF0F814EF55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F9261D-9EF5-4919-B02A-AFF0F814EF55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F9261D-9EF5-4919-B02A-AFF0F814EF55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9699E64A-1413-4586-A930-DC257EC53A44}
+	EndGlobalSection
+EndGlobal
